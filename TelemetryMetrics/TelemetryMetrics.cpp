@@ -17,7 +17,7 @@
 * limitations under the License.
 */
 
-
+//#include "stdio.h"
 #include "TelemetryMetrics.h"
 
 const string WPEFramework::Plugin::TelemetryMetrics::SERVICE_NAME = "org.rdk.TelemetryMetrics";
